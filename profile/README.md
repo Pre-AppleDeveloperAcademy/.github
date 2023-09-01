@@ -14,7 +14,6 @@
 
 ## 🧑🏻‍💻 Participants
 
-- 나구리라
 |나기|구밥|리버|라프|
 |:----:|:----:|:----:|:----:|
 |<a href="https://github.com/Naknakk">@Naknakk</a>|<a href="https://github.com/baabguui">@baabguui</a>|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/ye-gang-jjang">@ye-gang-jjang</a>|
