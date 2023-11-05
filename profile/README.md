@@ -1,6 +1,6 @@
-# 👊🏻 NaGuLiRa Algorithm Study
+# 👊🏻 포항항 알고리즘 스터디
 
-#### 나구리라의 천방지축 알고리즘 성장일기
+#### 포항항 8인방의 천방지축 알고리즘 성장일기
 
 <br/>
 
@@ -13,9 +13,9 @@
 
 ## 🧑🏻‍💻 Participants
 
-|나기/이윤학|구밥/임지원|리버/이경수|라프/허예강|
-|:----:|:----:|:----:|:----:|
-|<a href="https://github.com/Naknakk">@Naknakk</a>|<a href="https://github.com/baabguui">@baabguui</a>|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/ye-gang-jjang">@ye-gang-jjang</a>|
+|나기/윤학|구밥/지원|리버/경수|라프/예강|허니비/현희|쿠키/민준|롭/수진|윤/윤기|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|<a href="https://github.com/Naknakk">@Naknakk</a>|<a href="https://github.com/baabguui">@baabguui</a>|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/ye-gang-jjang">@ye-gang-jjang</a>|<a href="https://github.com/hyeonheebee">@hyeoneeB</a>|<a href="https://github.com/thinkySide">@thinkySide</a>|<a href="https://github.com/Jinjinjinzin">@Jinjinjinzin</a>|<a href="https://github.com/YunKi-H">@YunKi-H</a>|
 
 <br/>
 
